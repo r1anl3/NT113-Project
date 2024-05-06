@@ -75,3 +75,9 @@ Bài tập này giả định Công ty muốn thiết lập một hệ thống m
 ...
 
 > **_Note_** : Chi tiết hơn tại [Drive](https://drive.google.com/drive/folders/1SbakLJsVqzZIdV6OYrDTCgL3D8dQYNtU)
+
+## Thành viên
+
+- Thuan Tong-Vo-Anh, [@thu4n](https://github.com/thu4n/)
+- Vu Le-Huynh-Quang, [@r1anl3](https://github.com/r1anl3/)
+- To Nguyen-Dang, [@Nyx](https://github.com/NguyenDangTo)
